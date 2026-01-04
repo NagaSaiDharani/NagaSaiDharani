@@ -21,4 +21,4 @@
 
 ### 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/naga-sai-dharani-donepudi/
-- Portfolio: 
+- Portfolio: https://buttered-dryosaurus-a3c.notion.site/DONEPUDI-NAGA-SAI-DHARANI-2def77f48217809d826dc7db7633a35d
