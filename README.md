@@ -4,7 +4,7 @@
 
 ### 🔧 Skills & Tools
 - **SQL**: Advanced queries, CTEs, window functions, complex joins  
-- **Databases**: PostgreSQL, SQL Server (SSMS)  
+- **Databases**: PostgreSQL, Microsoft SQL Server (MSSMS)  
 - **BI & Visualization**: Power BI (DAX, Power Query), Excel  
 - **Analytics**: Data cleaning, EDA, KPI development, reporting
 
@@ -16,7 +16,7 @@
   Executive dashboards built using Power BI & DAX to track revenue, operations, risk, and complaints.
 
 ### 💼 Professional Experience
-- **Data Analyst / Software Engineer** – HCL Technologies (Nestlé R&D)  
+- **Senior Software Engineer (Data Analytics)** - HCL Technologies (Nestlé R&D)  
   SQL-based analysis, dashboarding, data quality resolution, and stakeholder reporting.
 
 ### 🔗 Connect with me
